@@ -9,4 +9,4 @@ while not salir:
         print("Dado2: ", dado2)
         salir=True
     contador+=1
-print("Dados iguales en el intento: ",contador)
+print("Dados igualeeeeeeeeeeeeeeeeeeeeeeeeeeeeeees en el intento: ",contador)
