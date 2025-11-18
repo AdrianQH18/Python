@@ -10,3 +10,11 @@ while not salir:
         salir=True
     contador+=1
 print("Dados igualeeeeeeeeeeeeeeeeeeeeeeeeeeeeeees en el intento: ",contador)
+
+"""
+isinstance(obj, tipo) es una función de Python que verifica si un objeto es de un tipo (o de una tupla de tipos) específico.
+isinstance(5, int)          # True
+isinstance("hola", str)     # True
+isinstance(3.14, float)     # True
+isinstance([1,2,3], list)   # True
+"""
