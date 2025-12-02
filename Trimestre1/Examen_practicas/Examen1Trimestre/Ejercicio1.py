@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import random
 lista=[]
 contador=0
