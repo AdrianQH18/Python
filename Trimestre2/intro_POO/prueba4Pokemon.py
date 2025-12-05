@@ -17,16 +17,8 @@ class Pokemon:
             print("Este pokemon a evolucionado")
             evo=self.__evolucion
         return evo
-p1=Pokemon("Bulbasaur")
-p2=Pokemon("Venasaur")
-p1.mostrar()
-p2.mostrar()
-print()
+class Equipo:
+    pass
 
-p1.setEvolucion(p2)
-p2=p2.evoluciona()
-p1=p1.evoluciona()
-print()
-
-p1.mostrar()
-p2.mostrar()
+class PokemonLegendario:
+    pass
