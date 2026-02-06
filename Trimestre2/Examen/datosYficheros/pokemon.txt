@@ -1,0 +1,5 @@
+Chikorita, 6.0, 0.9, Planta
+158, Totodile, 9.5, 0.6, Agua
+163, Hoothoot
+155, Cyndaquil, 7.9, 0.5, Fuego
+167, Spinarak, 8.5,
